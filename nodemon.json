@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "itcrowdchallenge",
+        "DB_PASSWORD": "products1234",
+        "DB_NAME": "products"
+    }
+}
